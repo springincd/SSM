@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class MybatisTest {
     private ApplicationContext context;
-    
+
     @Before
     public void setup(){
         context = new ClassPathXmlApplicationContext("classpath:applicationContext.xml");
