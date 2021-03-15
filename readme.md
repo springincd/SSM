@@ -27,7 +27,7 @@
 
 #### 工程目录：
 
-![image-20210315201739248](D:\wp\IdeaProjects\SSM\readme.assets\image-20210315201739248.png)
+![image-20210315202859520](readme.assets/image-20210315202859520.png)
 
 #### 添加依赖：
 
