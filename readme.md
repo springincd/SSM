@@ -27,7 +27,7 @@
 
 #### 工程目录：
 
-![image-20210315165745343](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210315165745343.png)
+![image-20210315201739248](D:\wp\IdeaProjects\SSM\readme.assets\image-20210315201739248.png)
 
 #### 添加依赖：
 
